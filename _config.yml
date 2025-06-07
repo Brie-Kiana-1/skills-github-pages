@@ -1,4 +1,6 @@
-theme: minima
-title: Linux Command Types Explained, Manual Page History, and More!
-author: Brie-Kiana-1
-description: An Accesible Intro to Intro, the Man Pages, --help, & How to find information in GNU/Linux distros.
+---
+theme:  minima
+title:  Linux Command Types Explained, Manual Page History, and More!
+author:  Brie-Kiana-1
+description:  An Accesible Intro to Intro, the Man Pages, --help, & How to find information in GNU/Linux distros.
+...
